@@ -1,5 +1,5 @@
 # Portfolio
-**This repository contains links to my projects(both on going and complete)**
+**This repository contains links to my projects (both on going and complete)**
 
 - Witness of Mercia (on going):
 ![image](https://github.com/user-attachments/assets/bad97a0f-39a3-46d1-ac49-0abc1125958c)
